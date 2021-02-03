@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "name": "Filmo",
+            "image": "https://i.ibb.co/n3WWPFn/Filmo.png",
+            "url": "https://filmo-55c78.web.app/",
+            "repo": "https://github.com/franciscobeccaria/filmo"
+        },
+        {
+            "name": "FormulaOne",
+            "image": "https://i.ibb.co/RD4x8Zy/Formula-1.png",
+            "url": "https://formula-one.netlify.app/",
+            "repo": "https://github.com/franciscobeccaria/formula-one"
+        },
+        {
+            "name": "MovieSearcher",
+            "image": "https://i.ibb.co/wBfJDPy/Movie-Searcher.png",
+            "url": "https://movie-searcher-2dbe3.firebaseapp.com/",
+            "repo": "https://github.com/franciscobeccaria/movieSearcher"
+        },
+        {
+            "name": "Eleven Builder",
+            "image": "https://i.ibb.co/CPZN8w4/Eleven-Builder.png",
+            "url": "https://reverent-lovelace-3d0b2f.netlify.app/",
+            "repo": "https://github.com/franciscobeccaria/eleven-builder"
+        }
+    ]
+}
