@@ -38,7 +38,7 @@
         }, 
         {
             "name": "Portfolio",
-            "image": "",
+            "image": "https://i.ibb.co/LrSq8qS/React-App.png",
             "url": "#",
             "repo": "",
             "stack": ["React", "Redux", "styled-components", "TailwindCSS"],
