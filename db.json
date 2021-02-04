@@ -6,8 +6,8 @@
             "url": "https://filmo-55c78.web.app/",
             "repo": "https://github.com/franciscobeccaria/filmo",
             "stack": ["React", "Redux", "Firebase", "styled-components"],
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-            "technique": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            "description": "On this app you can search any movie or tv show. You can sign up and create custom lists, like Best Movies Ever. Also, you can use the default lists: Want-To-See and Seen-It.",
+            "technique": "The Movies/TV Shows database is extracted from TheMovieDB API. The user authentication is through Firebase. And I saved the users lists on Firestore. In this project I used React, React-Router, Redux, styled-components, axios, among others technologies or libraries."
         },
         {
             "name": "FormulaOne",
@@ -15,8 +15,8 @@
             "url": "https://formula-one.netlify.app/",
             "repo": "https://github.com/franciscobeccaria/formula-one",
             "stack": ["JavaScript (Vanilla)", "CSS (Sass)"],
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-            "technique": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            "description": "It's a Formula 1 project where you can see the rankings, drivers, teams, seasons and circuits.",
+            "technique": "I used JavaScript Vanilla to build this SPA. I used Sass for the styles. In this project I applied the JavaScript OOP concept. It's a pretty simple project in which I mainly make the requests from the formula-1 API, found it in api-sports.io."
         },
         {
             "name": "MovieSearcher",
@@ -33,8 +33,8 @@
             "url": "https://reverent-lovelace-3d0b2f.netlify.app/",
             "repo": "https://github.com/franciscobeccaria/eleven-builder",
             "stack": ["JavaScript (Vanilla)", "CSS (Sass)"],
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-            "technique": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            "description": "You can add players, putting them name, surname and image. Also, you can move the players around the field and the bench. And you can change the Team-Title.",
+            "technique": "It was one of my first projects. The main concept is DOM manipulation in JavaScript Vanilla. The website isn't even responsive."
         }, 
         {
             "name": "Portfolio",
@@ -42,8 +42,8 @@
             "url": "#",
             "repo": "",
             "stack": ["React", "Redux", "styled-components", "TailwindCSS"],
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-            "technique": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            "description": "This is my portfolio. You can see my projects, read about me and send me a contact message.",
+            "technique": "I used React, Redux, styled-components and TailwindCSS. Also, I used My-JSON-Server to save the data and extract it. I handle the contact form with Formspree. Where do I used Redux? In the ToastMessage, that is showed when you sent the contact form, for example. I think is the best UI/UX that I did, possibly helped by TailwindCSS."
         }
     ]
 }
