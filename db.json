@@ -45,5 +45,5 @@
             "description": "This is my portfolio. You can see my projects, read about me and send me a contact message.",
             "technique": "I used React, Redux, styled-components and TailwindCSS. Also, I used My-JSON-Server to save the data and extract it. I handle the contact form with Formspree. Where do I used Redux? In the ToastMessage, that is showed when you sent the contact form, for example. I think is the best UI/UX that I did, possibly helped by TailwindCSS."
         }
-    ],
+    ]
 }
