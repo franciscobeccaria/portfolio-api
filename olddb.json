@@ -1,0 +1,9 @@
+{
+            "name": "Eleven Builder",
+            "image": "https://i.ibb.co/CPZN8w4/Eleven-Builder.png",
+            "url": "https://reverent-lovelace-3d0b2f.netlify.app/",
+            "repo": "https://github.com/franciscobeccaria/eleven-builder",
+            "stack": ["JavaScript (Vanilla)", "CSS (Sass)"],
+            "description": "You can add players, putting them name, surname and image. Also, you can move the players around the field and the bench. And you can change the Team-Title.",
+            "technique": "It was one of my first projects. The main concept is DOM manipulation in JavaScript Vanilla. The website isn't even responsive."
+        },
