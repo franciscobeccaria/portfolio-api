@@ -10,33 +10,6 @@
             "technique": "The Movies/TV Shows database is extracted from TheMovieDB API. The user authentication is through Firebase. And I saved the users lists on Firestore. In this project I used React, React-Router, Redux, styled-components, axios, among others technologies or libraries."
         },
         {
-            "name": "FormulaOne",
-            "image": "https://i.ibb.co/RD4x8Zy/Formula-1.png",
-            "url": "https://formula-one.netlify.app/",
-            "repo": "https://github.com/franciscobeccaria/formula-one",
-            "stack": ["JavaScript (Vanilla)", "CSS (Sass)"],
-            "description": "It's a Formula 1 project where you can see the rankings, drivers, teams, seasons and circuits.",
-            "technique": "I used JavaScript Vanilla to build this SPA. I used Sass for the styles. In this project I applied the JavaScript OOP concept. It's a pretty simple project in which I mainly make the requests from the formula-1 API, found it in api-sports.io."
-        },
-        {
-            "name": "MovieSearcher",
-            "image": "https://i.ibb.co/wBfJDPy/Movie-Searcher.png",
-            "url": "https://movie-searcher-2dbe3.firebaseapp.com/",
-            "repo": "https://github.com/franciscobeccaria/movieSearcher",
-            "stack": ["JavaScript (Vanilla)", "CSS (Sass)"],
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-            "technique": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
-        {
-            "name": "Portfolio",
-            "image": "https://i.ibb.co/LrSq8qS/React-App.png",
-            "url": "#",
-            "repo": "https://github.com/franciscobeccaria/portfolio",
-            "stack": ["React", "Redux", "styled-components", "TailwindCSS"],
-            "description": "This is my portfolio. You can see my projects, read about me and send me a contact message.",
-            "technique": "I used React, Redux, styled-components and TailwindCSS. Also, I used My-JSON-Server to save the data and extract it. I handle the contact form with Formspree. Where do I used Redux? In the ToastMessage, that is showed when you sent the contact form, for example. I think is the best UI/UX that I did, possibly helped by TailwindCSS."
-        },
-        {
             "name": "What If Investments",
             "image": "https://i.ibb.co/02zhMTR/React-App-1.png",
             "url": "https://what-if-investments.netlify.app/",
